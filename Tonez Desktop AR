@@ -1,0 +1,49 @@
+<div class="footer-links">
+<ul class="link-group">
+<li class="link-item">Tonez</li>
+<li class="link-item"><a href="/en/about-us">من نحن</a></li>
+<li class="link-item"><a href="/en/stores">فروعنا</a></li>
+<li class="link-item"><a href="/en/career">الوظائف</a></li>
+<li class="link-item"><a href="/en/news-events">الجديد والفعاليات</a></li>
+</ul>
+<ul class="link-group">
+<li class="link-item">حسابي</li>
+<li class="link-item"><a href="/en/account-information">حسابي</a></li>
+<li class="link-item"><a href="/en/account-information#my-wishlist">المفضلة</a></li>
+<li class="link-item"><a href="/en/gift-card">الهدايا</a></li>
+<li class="link-item"><a href="/en/return-of-products">ارجاع المنتجات</a></li>
+<li class="link-item"><a href="/en/contact-us">اتصل بنا </a></li>
+</ul>
+<ul class="link-group">
+<li class="link-item">خدمات العملاء</li>
+<li class="link-item"><a href="/en/customer-service">خدمة العملاء</a></li>
+<li class="link-item"><a href="/en/returns">الارجاع</a></li>
+<li class="link-item"><a href="/en/common-question">الاسئلة الشائعة</a></li>
+<li class="link-item"><a href="/en/privacy-policy">سياسة الخصوصية</a></li>
+<li class="link-item"><a href="/en/shipment-policy">سياسة الشحن</a></li>
+</ul>
+<ul class="link-group">
+<li class="link-item">الدفع والشحن</li>
+<li class="link-item"><a class="footer-link" href="/en/delivery-time">وقت الشحن</a></li>
+<li class="link-item"><a class="footer-link" href="/en/cost-of-delivery">تكلفة الشحن</a></li>
+<li class="link-item"><a class="footer-link" href="/en/payment-methods">طرق الدفع</a></li>
+<li class="link-item"><a class="footer-link" href="/en/order-information">تتبع الشحنة</a></li>
+<li class="link-item"><a class="footer-link" href="/en/order-information">معلومات الشحنة</a></li>
+</ul>
+<ul class="callout">
+<ul class="callout">
+<li class="heading">تطبيقاتنا</li>
+</ul>
+</ul>
+<div class="callout-body"><a class="image-container link-image" target="_blank" rel="noopener noreferrer"> <img src="https://release-dn.snaptec.co/assets/images/others/app-store.png" alt="logo" width="138" height="40"> </a> <a class="image-container link-image" target="_blank" rel="noopener noreferrer"> <img src="https://release-dn.snaptec.co/assets/images/others/google-play.png" alt="logo" width="138" height="40"> </a></div>
+<ul class="callout">
+<ul class="callout">
+<li class="heading">المجلة الإخبارية</li>
+</ul>
+</ul>
+<p class="contact">بإدخال عنوان بريدك الإلكتروني أدناه ، فإنك توافق على تلقي رسائلنا الإخبارية مع إمكانية الوصول إلى أحدث مجموعاتنا وفعالياتنا ومبادراتنا. يتم توفير مزيد من التفاصيل حول هذا في سياسة الخصوصية الخاصة بنا.</p>
+<div class="subcribePageBodySubFour"><input id="subscribeEmailInput_bot" class="inputSubcribeFooter" type="text" placeholder="الرجاء اضافة البريد"> <button id="buttonSubcribe_bot" class="buttonSubcribeFooter" style="background-color: #02150a; color: #ffffff;">ارسال</button></div>
+<ul class="callout">
+<li style="font-weight: 400; padding-top: 5px;">الرقم الضريبي - <span dir="ltr">9999999999</span></li>
+</ul>
+</div>
