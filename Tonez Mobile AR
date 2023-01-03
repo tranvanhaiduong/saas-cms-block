@@ -1,0 +1,110 @@
+<div class="footer-links">
+  <div class="section">
+    <button class="title-container" id="collapse_1_footer_dropdown">
+      <span class="title-content-wrapper">
+        <span class="title-content">Tonez</span>
+        <img src="/assets/images/icon/dropdown.png" class="title-icon" width="20" height="18">
+      </span>
+    </button>
+    <div class="content-container">
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/about-us">من نحن</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/stores">فروعنا</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/career">الوظائف</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/news-events">الجديد والفعاليات</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/contact-us">اتصل بنا</a>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <button class="title-container" id="collapse_2_footer_dropdown">
+      <span class="title-content-wrapper">
+        <span class="title-content">حسابي</span>
+        <img src="/assets/images/icon/dropdown.png" class="title-icon" width="20" height="18">
+      </span>
+    </button>
+    <div class="content-container">
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/account-information">حسابي</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/account-information#my-wishlist">المفضلة</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/gift-card">الهدايا</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/return-of-products">ارجاع المنتجات</a>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <button class="title-container" id="collapse_3_footer_dropdown">
+      <span class="title-content-wrapper">
+        <span class="title-content">خدمات العملاء</span>
+        <img src="/assets/images/icon/dropdown.png" class="title-icon" width="20" height="18">
+      </span>
+    </button>
+    <div class="content-container">
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/customer-service">خدمة العملاء</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/return">الإرجاع</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/common-question">الأسئلة الشائعة</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/privacy-policy">سياسة الخصوصية</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/shipment-policy">سياسة الشحن</a>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <button class="title-container" id="collapse_4_footer_dropdown">
+      <span class="title-content-wrapper">
+        <span class="title-content">خدمات العملاء</span>
+        <img src="/assets/images/icon/dropdown.png" class="title-icon" width="20" height="18">
+      </span>
+    </button>
+    <div class="content-container">
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/delivery-time">الشحن</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/cost-of-delivery">تكلفة الشحن</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/payment-methods">طرق الدفع</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/ar/order-information">تتبع الشحنة</a>
+      </div>
+    </div>
+  </div>
+  <ul class="callout">
+    <li class="heading">
+      <span>المجلة الإخبارية</span>
+    </li>
+    <p class="contact">بإدخال عنوان بريدك الإلكتروني أدناه ، فإنك توافق على تلقي رسائلنا الإخبارية مع إمكانية الوصول إلى أحدث مجموعاتنا وفعالياتنا ومبادراتنا. يتم توفير مزيد من التفاصيل حول هذا في سياسة الخصوصية الخاصة بنا.</p>
+    <div class="subcribePageBodySubFour">
+      <input placeholder="الرجاء اضافة البريد" id="subscribeEmailInput_bot" class="inputSubcribeFooter">
+      <button id="buttonSubcribe_bot" class="buttonSubcribeFooter" style="background-color: rgb(2, 21, 10); color: rgb(255, 255, 255);">ارسال</button>
+    </div>
+    <div class="vat-sale-container">
+      <li style="font-weight: 400; padding-top: 5px;">الرقم الضريبي - <span dir="ltr">999999999</span>
+      </li>
+    </div>
+  </ul>
+</div>
