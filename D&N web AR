@@ -1,0 +1,55 @@
+<div class="footer-links">
+  <ul class="link-group">
+    <li class="link-item">D&amp;N</li>
+<li class="link-item"><a href="/ar/about-us">من نحن</a></li>
+<li class="link-item"><a href="/ar/stores">فروعنا</a></li>
+<li class="link-item"><a href="/ar/career">الوظائف</a></li>
+<li class="link-item"><a href="/ar/news-events">الاخبار و الفعاليات</a></li>
+<li class="link-item"><a href="/ar/contact-us">اتصل بنا</a></li>
+  </ul>
+  <ul class="link-group">
+    <li class="link-item">حسابي</li>
+<li class="link-item"><a href="/ar/account-information">حسابي</a></li>
+<li class="link-item"><a href="/ar/account-information#my-wishlist">المفضلة</a></li>
+<li class="link-item"><a href="/ar/gift-card">الهدايا</a></li>
+<li class="link-item"><a href="/ar/return-of-products">ارجاع المنتجات</a></li>
+  </ul>
+  <ul class="link-group">
+    <li class="link-item">خدمات العملاء</li>
+<li class="link-item"><a href="/ar/customer-service">خدمة العملاء</a></li>
+<li class="link-item"><a href="/ar/returns">الإرجاع</a></li>
+<li class="link-item"><a href="/ar/common-question">الأسئلة الشائعة</a></li>
+<li class="link-item"><a href="/ar/privacy-policy">سياسة الخصوصية</a></li>
+<li class="link-item"><a href="/ar/shipment-policy">سياسة الشحن</a></li>
+  </ul>
+  <ul class="link-group">
+    <li class="link-item">الدفع و الشحن</li>
+<li class="link-item"><a class="footer-link" href="/ar/delivery-time">وقت الشحن</a></li>
+<li class="link-item"><a class="footer-link" href="/ar/cost-of-delivery">تكلفة الشحن</a></li>
+<li class="link-item"><a class="footer-link" href="/ar/payment-methods">طرق الدفع</a></li>
+<li class="link-item"><a class="footer-link" href="/ar/order-information">تتبع الشحنة</a></li>
+  </ul>
+  <ul class="callout">
+    <!--<li class="heading">-->
+    <!--  <span>تطبيقاتنا</span>-->
+    <!--</li>-->
+    <!--<div class="callout-body">-->
+    <!--  <a class="image-container link-image" href="" target="_blank" rel="noreferrer">-->
+    <!--    <img src="https://release-dn.snaptec.co/assets/images/others/app-store.png" height="40" width="138" alt="logo">-->
+    <!--  </a>-->
+    <!--  <a class="image-container link-image" href="" target="_blank" rel="noreferrer">-->
+    <!--    <img src="https://release-dn.snaptec.co/assets/images/others/google-play.png" height="40" width="138" alt="logo">-->
+    <!--  </a>-->
+    <!--</div>-->
+    <li class="heading">
+      <span>المجلة الإخبارية</span>
+    </li>
+    <p class="contact">بإدخال عنوان بريدك الإلكتروني أدناه ، فإنك توافق على تلقي رسائلنا الإخبارية مع إمكانية الوصول إلى أحدث مجموعاتنا وفعالياتنا ومبادراتنا. يتم توفير مزيد من التفاصيل حول هذا في سياسة الخصوصية الخاصة بنا.</p>
+    <div class="subcribePageBodySubFour">
+      <input placeholder="الرجاء اضافة البريد" id="subscribeEmailInput_bot" class="inputSubcribeFooter">
+      <button id="buttonSubcribe_bot" class="buttonSubcribeFooter" style="background-color: rgb(2, 21, 10); color: rgb(255, 255, 255);">ارسال</button>
+    </div>
+    <li style="font-weight: 400; padding-top: 5px;">الرقم الضريبي - <span dir="ltr">9999999999</span>
+    </li>
+  </ul>
+</div>
