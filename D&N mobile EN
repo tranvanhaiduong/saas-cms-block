@@ -1,0 +1,106 @@
+<div class="footer-links">
+  <div class="section">
+    <button class="title-container" id="collapse_1_footer_dropdown">
+      <span class="title-content-wrapper">
+        <span class="title-content">D&N</span>
+        <img src="/assets/images/icon/dropdown.png" class="title-icon" width="20" height="18">
+      </span>
+    </button>
+    <div class="content-container">
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/about-us">About Us</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/stores">Stores</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/career">Career</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/news-events">New &amp; Events</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/contact-us">Contact Us</a>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <button class="title-container" id="collapse_2_footer_dropdown">
+      <span class="title-content-wrapper">
+        <span class="title-content">MY ACCOUNT</span>
+        <img src="/assets/images/icon/dropdown.png" class="title-icon" width="20" height="18">
+      </span>
+    </button>
+    <div class="content-container">
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/account-information">Customer Account</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/account-information#my-wishlist">Wishlist</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/gift-card">Gift Card</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/return-of-products">Return of Products</a>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <button class="title-container" id="collapse_3_footer_dropdown">
+      <span class="title-content-wrapper">
+        <span class="title-content">CUSTOMER SERVICES</span>
+        <img src="/assets/images/icon/dropdown.png" class="title-icon" width="20" height="18">
+      </span>
+    </button>
+    <div class="content-container">
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/customer-service">Customer Service</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/return">Returns</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/common-question">Common Questions</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/privacy-policy">Privacy Policy</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/shipment-policy">Shipment Policy</a>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <button class="title-container" id="collapse_4_footer_dropdown">
+      <span class="title-content-wrapper">
+        <span class="title-content">PAYMENT &amp; DELIVERY</span>
+        <img src="/assets/images/icon/dropdown.png" class="title-icon" width="20" height="18">
+      </span>
+    </button>
+    <div class="content-container">
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/delivery-time">Delivery Time</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/cost-of-delivery">Cost of Delivery</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/payment-methods">Payment Methods</a>
+      </div>
+      <div class="link-item--mobile">
+        <a class="footer-link" href="/en/order-information">Shipment Tracking</a>
+      </div>
+    </div>
+  </div>
+  <ul class="callout">
+    <li class="heading">
+      <span>SIGN UP FOR UPDATES</span>
+    </li>
+    <p class="contact">By entering your email address below, you consent to receiving our newsletter with access to our latest collections, events and initiatives. More details on this are provided in our Privacy Policy.</p>
+    <div class="subcribePageBodySubFour">
+      <input placeholder="Enter email address" id="subscribeEmailInput_bot" class="inputSubcribeFooter">
+      <button id="buttonSubcribe_bot" class="buttonSubcribeFooter" style="background-color: rgb(2, 21, 10); color: rgb(255, 255, 255);">Send</button>
+    </div>
+  </ul>
+</div>
