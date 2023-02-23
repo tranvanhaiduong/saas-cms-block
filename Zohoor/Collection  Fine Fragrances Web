@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+<div class="cms_block_home">
+    <div class="title">
+        <p class="text">We tell stories through our craft of perfume making</p>
+    </div>
+    <div class="content">
+  <div class="block_left">
+    <p class="text"> A Saudi-owned international manufacturer and retailer of perfumes that established in 1991, Zohoor has become the leading Saudi-owned perfume creator. </p>
+    <a href="">
+      <img src="https://master-be.snaptec.co/media/SnaptecBanner/banner_image1676945502.png" style="width: 285px;">
+    </a>
+  </div>
+  <div class="block_center">
+    <a href="">
+      <img src="https://master-be.snaptec.co/media/SnaptecBanner/banner_image1676945375.png" style="width: 500px;">
+    </a>
+    <p class="text"> Zohoor Alreef remains the only retailer to boast complete collections of pure perfume oils. We blend together the finest selections of hand crafted organic oils from France to Arabia. </p>
+  </div>
+  <div class="block_right">
+    <a href="">
+      <img src="https://master-be.snaptec.co/media/SnaptecBanner/banner_image1676945673.png">
+    </a>
+    <p class="text">We take you on a journey, empowering you to express yourself through your personal fragrance signature.</p>
+  </div>
+    </div>
+</div>
+</body>
+</html>
